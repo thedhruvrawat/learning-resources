@@ -1,2 +1,2 @@
 # learning-resources
-LEarning Resources for Full Stack Web Development
+Learning Resources for Full Stack Web Development
