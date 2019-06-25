@@ -22,10 +22,11 @@
 ## Web Scraping
 - [Selenium and BS4 for Web Scraping and Automation](https://www.youtube.com/watch?v=8sm4sWYXvNc&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm&index=6&t=0s)0
 ## Practice Scraping
-- Scrape IMDb Movies
-  [] Of a certain Genre
-  [] Top 250
-  [] By director/ any other field
+- Scrape IMDb Movies[ Can be used to build a movie Recommender System]
+  - Of a certain Genre
+  - Top 250
+  - By director/ any other field
+- Scrape the freelunch website.
 - Given any user info, scrape instagram for a certian number of photos
 - Scraping GSoC website for info on previous year organisations.
 - Scraping BITS Mail, ID or Nalanda Website[Can be used to build productive applications]``
