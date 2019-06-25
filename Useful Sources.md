@@ -8,7 +8,7 @@
 - Django Tutorials
   - [Tutorial on Github](https://github.com/wsvincent/awesome-django)
   - [Django Girls](https://tutorial.djangogirls.org/en/)
-## Core CS MAterial
+## Core CS Material
 - https://github.com/mtdvio/every-programmer-should-know
 
 ## Practice Material 
@@ -19,3 +19,13 @@
 ## Youtube Channels
 - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 - [CfE Youtube Channel](https://www.youtube.com/watch?v=549gvYqVRsk)
+## Web Scraping
+- [Selenium and BS4 for Web Scraping and Automation](https://www.youtube.com/watch?v=8sm4sWYXvNc&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm&index=6&t=0s)0
+## Practice Scraping
+- Scrape IMDb Movies
+  [] Of a certain Genre
+  [] Top 250
+  [] By director/ any other field
+- Given any user info, scrape instagram for a certian number of photos
+- Scraping GSoC website for info on previous year organisations.
+- Scraping BITS Mail, ID or Nalanda Website[Can be used to build productive applications]``
