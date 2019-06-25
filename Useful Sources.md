@@ -29,3 +29,4 @@
 - Given any user info, scrape instagram for a certian number of photos
 - Scraping GSoC website for info on previous year organisations.
 - Scraping BITS Mail, ID or Nalanda Website[Can be used to build productive applications]``
+- Scraping JEE Adv., Board Exam or any other competitive exam results
