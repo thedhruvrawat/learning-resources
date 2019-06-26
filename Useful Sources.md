@@ -31,3 +31,6 @@
 - Scraping GSoC website for info on previous year organisations.
 - Scraping BITS Mail, ID or Nalanda Website[Can be used to build productive applications]``
 - Scraping JEE Adv., Board Exam or any other competitive exam results
+- Design an automated mail sender:[Useful and fairly Challenging]
+  - Learn selenium
+  - After that crawl you  e-mail id and automate mail sending and texting.
