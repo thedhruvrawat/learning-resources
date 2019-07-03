@@ -20,7 +20,7 @@
 - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 - [CfE Youtube Channel](https://www.youtube.com/watch?v=549gvYqVRsk)
 ## Web Scraping
-- [Selenium and BS4 for Web Scraping and Automation](https://www.youtube.com/watch?v=8sm4sWYXvNc&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm&index=6&t=0s)0
+- [Selenium and BS4 for Web Scraping and Automation](https://www.youtube.com/watch?v=8sm4sWYXvNc&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm&index=6&t=0s)
 ## Practice Scraping
 - Scrape IMDb Movies[ Can be used to build a movie Recommender System]
   - Of a certain Genre
